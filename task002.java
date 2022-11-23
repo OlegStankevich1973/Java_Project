@@ -1,9 +1,12 @@
 import java.time.LocalDateTime;
 
-// Вывести в консоль системные дату и время
-
+/**
+ * task002
+ */
 public class task002 {
+
     public static void main(String[] args) {
-        System.out.println(LocalDateTime.now());
+        LocalDateTime now = LocalDateTime.now();
+        System.out.println(now);   
     }
 }
