@@ -1,7 +1,7 @@
 import java.time.LocalDateTime;
 
 /**
- * task002
+ * Вывести в консоль системные дату и время
  */
 public class task002 {
 
