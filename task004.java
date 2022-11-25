@@ -2,7 +2,8 @@ import java.util.Calendar;
 import java.util.Scanner;
 
 /**
- * task004
+ * Напишите программу , которая запросит пользователя ввести 
+ * имя и выведет приветствие взависимости от времени суток
  */
 public class task004 {
 
