@@ -3,7 +3,6 @@
 // ==================================================================================
 
 import java.util.Scanner;
-
 public class task008 {
     public static void main(String[] args) {
         Calc myObject = new Calc();
@@ -47,10 +46,9 @@ class Calc {// не делать одинаковые названия клас�
             default:
                 System.out.printf("Error! Enter correct operator");
                 return;
-            }
-        
+            }        
 
-        // System.out.print("\nThe result is given as follows:\n");
+        
         System.out.printf(numberOne + " " + action + " " + numberTwo + " = " + result);
            
     }
