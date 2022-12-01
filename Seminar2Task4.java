@@ -34,9 +34,9 @@ class FourthTask {//метод записи слова (Тест) 100 раз в 
             fileOutputStream.write(generateString().toString().getBytes());//создаем обьект класса вывода информации fileOutputStream
 
             fileOutputStream.close();
-        } catch (IOException e) {
+        } catch (IOException e) {//при получении такой ошибки
             System.out.println("Проблема вывода!");
-            e.printStackTrace();
+            e.printStackTrace();//gtxgnftn
         }
     }
 }
