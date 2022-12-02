@@ -1,0 +1,16 @@
+дек. 02, 2022 11:01:05 PM task010DZ2 arrayBubble
+INFO: Сделана итерация 1
+дек. 02, 2022 11:01:05 PM task010DZ2 arrayBubble
+INFO: Сделана итерация 2
+дек. 02, 2022 11:01:05 PM task010DZ2 arrayBubble
+INFO: Сделана итерация 3
+дек. 02, 2022 11:01:05 PM task010DZ2 arrayBubble
+INFO: Сделана итерация 4
+дек. 02, 2022 11:01:05 PM task010DZ2 arrayBubble
+INFO: Сделана итерация 5
+дек. 02, 2022 11:01:05 PM task010DZ2 arrayBubble
+INFO: Сделана итерация 6
+дек. 02, 2022 11:01:05 PM task010DZ2 arrayBubble
+INFO: Сделана итерация 7
+дек. 02, 2022 11:01:05 PM task010DZ2 arrayBubble
+INFO: Сделана итерация 8
