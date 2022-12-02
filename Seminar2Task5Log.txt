@@ -1,4 +1,4 @@
-дек. 02, 2022 1:31:26 PM Seminar2Task5 getFiles
+дек. 02, 2022 2:26:28 PM Seminar2Task5 getFiles
 WARNING: Файлы не найдены в этой папке
-дек. 02, 2022 1:31:27 PM Seminar2Task5 writer
+дек. 02, 2022 2:26:28 PM Seminar2Task5 writer
 INFO: В предыдущем методе файл вернул null

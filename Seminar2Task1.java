@@ -31,7 +31,7 @@ class FirstTask {// создаем новый класс
         StringBuilder result = new StringBuilder();
         while (n != counter) {//создаем условие при котором будет происходить соеденение 
             result.append(a).append(b);//присоединяем переменные друг к другу
-            counter = counter + 2;
+            counter = counter + 1;
         }
         return result;
     }
