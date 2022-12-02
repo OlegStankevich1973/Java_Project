@@ -26,7 +26,6 @@ public class Seminar2Task5 {
 
         writer();
     }
-
     public static ArrayList<String> getFiles() throws IOException {//создаемколлекцию которая хранит обьекты класса String
         File file = new File("F:\\Users\\stank\\Documents\\");//создаем класс File который отвечает за работу с файловой ситeмой
         ArrayList<String> names;//сохраняем в коллекции строк имена файлов из указанной директории
