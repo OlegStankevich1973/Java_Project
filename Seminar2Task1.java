@@ -27,6 +27,7 @@ class FirstTask {// создаем новый класс
         in.close();
     }
 
+    
     public StringBuilder getResult() {
         StringBuilder result = new StringBuilder();
         while (n != counter) {//создаем условие при котором будет происходить соеденение 
