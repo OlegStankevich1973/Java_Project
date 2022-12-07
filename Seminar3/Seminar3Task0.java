@@ -5,6 +5,7 @@ import java.util.ArrayList;
 public class Seminar3Task0 {
 
     public static void main(String[] args) {
+        
         String s1 = "hello";
         String s2 = "hello";
         String s3 = s1;
