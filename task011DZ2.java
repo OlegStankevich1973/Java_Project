@@ -11,10 +11,15 @@ import java.util.logging.FileHandler;
 import java.util.logging.SimpleFormatter;
 
 public class task011DZ2 {
+    
     /**
      *
      */
     private static Logger logger = Logger.getLogger(task011DZ2.class.getName());
+
+    
+    public task011DZ2() {
+    }
 
     /**
      * @param args
