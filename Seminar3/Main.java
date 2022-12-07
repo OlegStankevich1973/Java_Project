@@ -27,11 +27,11 @@ public class Main {
         // }
         // }
 
-        Task1 taskOne = new Task1();
-        taskOne.randomNumberList();
+        // Task1 taskOne = new Task1();
+        // taskOne.randomNumberList();
 
-        // TaskTwo taskTwo = new TaskTwo();
-        // taskTwo.addPlanets();
+        Task2 taskTwo = new Task2();
+        taskTwo.addPlanets();
 
         // TaskThree taskThree = new TaskThree();
         // taskThree.addPlanets();
