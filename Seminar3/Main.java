@@ -30,11 +30,11 @@ public class Main {
         // Task1 taskOne = new Task1();
         // taskOne.randomNumberList();
 
-        Task2 taskTwo = new Task2();
-        taskTwo.addPlanets();
+        // Task2 taskTwo = new Task2();
+        // taskTwo.addPlanets();
 
-        // TaskThree taskThree = new TaskThree();
-        // taskThree.addPlanets();
+        Task3 taskThree = new Task3();
+        taskThree.addPlanets();
 
         // TaskFourth taskFourth = new TaskFourth();
         // taskFourth.work();
