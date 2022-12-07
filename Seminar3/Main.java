@@ -36,8 +36,8 @@ public class Main {
         // Task3 taskThree = new Task3();
         // taskThree.addPlanets();
 
-        Task4 taskFourth = new Task4();
-        taskFourth.work();
+        // Task4 taskFourth = new Task4();
+        // taskFourth.work();
     }
 }
 
