@@ -16,6 +16,10 @@ public class task011DZ2 {
      */
     private static Logger logger = Logger.getLogger(task011DZ2.class.getName());
 
+    /**
+     * @param args
+     * @throws IOException
+     */
     public static void main(String[] args) throws IOException {
         FileHandler fh = new FileHandler("task010DZ2.txt");// ������� ���� ��� ������ �����
         ((Object) logger).addHandler(fh);
