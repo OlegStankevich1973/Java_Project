@@ -6,15 +6,15 @@ import java.util.Random;
 
 public class Main {
     public static void main(String[] args) {
-        FirstProblem firstProblem = new FirstProblem();
-        firstProblem.arrayListTime();
-        firstProblem.linkedListTime();
+        // FirstProblem firstProblem = new FirstProblem();
+        // firstProblem.arrayListTime();
+        // firstProblem.linkedListTime();
 
         // SecondProblem secondProblem = new SecondProblem();
         // secondProblem.addToLinkedList();
 
-        // ThirdProblem thirdProblem = new ThirdProblem();
-        // thirdProblem.task();
+        Task3 thirdProblem = new Task3();
+        thirdProblem.task();
 
         // FourthProblem fourthProblem = new FourthProblem();
         // fourthProblem.addToStack();
