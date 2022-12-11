@@ -13,11 +13,11 @@ public class Main {
         // SecondProblem secondProblem = new SecondProblem();
         // secondProblem.addToLinkedList();
 
-        Task3 thirdProblem = new Task3();
-        thirdProblem.task();
+        // Task3 thirdProblem = new Task3();
+        // thirdProblem.task();
 
-        // FourthProblem fourthProblem = new FourthProblem();
-        // fourthProblem.addToStack();
-        // fourthProblem.addToQueue();
+        Task4 fourthProblem = new Task4();
+        fourthProblem.addToStack();//запускаем методы в программе где решаем задачу
+        fourthProblem.addToQueue();
     }
 }
