@@ -10,8 +10,8 @@ public class Main {
         // firstProblem.arrayListTime();
         // firstProblem.linkedListTime();
 
-        // SecondProblem secondProblem = new SecondProblem();
-        // secondProblem.addToLinkedList();
+        TaskTwo secondProblem = new TaskTwo();
+        secondProblem.addToLinkedList();
 
         // Task3 thirdProblem = new Task3();
         // thirdProblem.task();

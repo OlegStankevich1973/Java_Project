@@ -5,15 +5,6 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class TaskTwo {
-    
-    public static void main(String[] args) {
-        TaskProblem secondProblem = new TaskProblem();
-        secondProblem.addToLinkedList();
-
-    }
-}
-
-class TaskProblem {
     String string;
 
     public void addToLinkedList() {
