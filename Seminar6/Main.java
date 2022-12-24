@@ -1,4 +1,4 @@
-package Sevinar6;
+package Seminar6;
 
 import java.util.HashSet;
 
